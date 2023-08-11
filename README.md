@@ -1,6 +1,6 @@
 # Hi, I'm Eli. 👋
 
-Software engineer, currently working on pixels at 📍MNTN! Bringing 5 years of experience leading Customer Success teams for marketing technology SaaS organizations to my process as a software engineer, passionate about building intuitive products and collaborating to provide scalable solutions to user problems.
+Software engineer, currently working on pixels at 📍MNTN! Bringing 5 years of experience leading Customer Success teams for marketing technology SaaS organizations to my process as a software engineer, I'm passionate about building intuitive products and collaborating to provide scalable solutions to user problems.
 
 ## My Skills
 
